@@ -1,3 +1,20 @@
+> [!NOTE]
+> **Fork notice – ThornFox**
+>
+> This is a fork of [akuehlewind/ESPHome-touch-display-mount](https://github.com/akuehlewind/ESPHome-touch-display-mount). The original content below is unchanged.
+>
+> **Added in this fork:** a two-page variant for the Cheap Yellow Display (ESP32-2432S028R) with an **ILI9342** controller – 11 tiles on two pages, swipe left/right to switch pages, overlays usable on both pages, LVGL buffer tuned for boards without PSRAM, German UI texts.
+> → [`esphome/home-like/cyd-2432s028-ili9342-2pages/`](esphome/home-like/cyd-2432s028-ili9342-2pages/)
+>
+> ---
+>
+> **Hinweis zum Fork – ThornFox**
+>
+> Dies ist ein Fork von [akuehlewind/ESPHome-touch-display-mount](https://github.com/akuehlewind/ESPHome-touch-display-mount). Der Originalinhalt unten ist unverändert.
+>
+> **Neu in diesem Fork:** eine Zwei-Seiten-Variante für das Cheap Yellow Display (ESP32-2432S028R) mit **ILI9342**-Controller – 11 Kacheln auf zwei Seiten, Seitenwechsel per Wischen nach links/rechts, Overlays auf beiden Seiten nutzbar, LVGL-Puffer für Boards ohne PSRAM angepasst, deutsche Oberflächentexte.
+> → [`esphome/home-like/cyd-2432s028-ili9342-2pages/`](esphome/home-like/cyd-2432s028-ili9342-2pages/)
+
 # ESPHome Home Assistant Touch Panel – CYD, Guition 4.0 and External ILI9341
 ![ESPHome](https://img.shields.io/badge/ESPHome-Compatible-blue)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integrated-orange)
